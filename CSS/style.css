@@ -40,9 +40,24 @@ a{
     background-color: yellow;
     margin: 10px;
     display: inline-block;
+    border: 10px solid green;
     /* display: inline-block; */
 }
+.c1{
+background-color: rgb(200, 200, 100 ,0.5);
 
+}
+
+
+.c2{
+    background-color: rgb(100, 150, 200 , 0.5);
+    
+
+}
+
+.c3{
+    background-color: rgb(200, 200, 200 , 0.5);
+}
 .footer{
     width: 900px;
     height: 200px;
