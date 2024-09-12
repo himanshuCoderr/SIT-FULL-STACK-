@@ -1,0 +1,23 @@
+
+
+#navbar{
+    height: 60px;
+    width: 900px;
+    background-color: black;
+}
+
+#amazonName{
+    color: yellow;
+    display: inline;
+}
+
+a{
+    color: white;
+    margin-left: 100px;
+}
+
+
+.contSearch{
+    display: inline-block;
+    margin-left: 100px;
+}
