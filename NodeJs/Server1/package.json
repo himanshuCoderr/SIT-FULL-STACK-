@@ -1,0 +1,15 @@
+{
+  "name": "sample-server-1",
+  "version": "1.0.0",
+  "description": "\"This is a Sample Server Crearted at SIT\"",
+  "main": "server.js",
+  "scripts": {
+    "serverchalu":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SampleServer"
+  ],
+  "author": "Himanshu Malhotra",
+  "license": "ISC"
+}
